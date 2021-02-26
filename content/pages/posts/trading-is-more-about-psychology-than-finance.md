@@ -12,9 +12,4 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+> Trading is more about psychology than Finance
