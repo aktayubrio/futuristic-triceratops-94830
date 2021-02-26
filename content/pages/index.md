@@ -4,7 +4,12 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: The pro trader (An amateur who didn't quit)
-  description: The preview of the Fjord theme
+  description: >-
+    Mindset manual to motivate and teach amateur traders and to change the
+    perspective that trading isn't betting rather it is more like a business
+    where the objective is to limit the losses and increase the benefits. A
+    guide that will give a legitimate analysis from choosing the intermediary to
+    taking the position at the correct second in the market.
   extra:
     - name: 'og:type'
       value: website
