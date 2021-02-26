@@ -14,7 +14,7 @@ layout: post
 ---
 > Trading is more about psychology than Finance
 
-![](https://lh3.googleusercontent.com/-9Q5x13QdyyE/YC19kjXAy9I/AAAAAAAABNE/GwkFtz_aI1cWEwYuN9zU3BiSRXCMQi-uQCLcBGAsYHQ/w520-h199/image.png)
+![](https://s.wsj.net/public/resources/images/ON-BW186\_bullbe_B620\_20161019152703.jpg)
 
 Want to open a Demat account but you ask yourself :
 
