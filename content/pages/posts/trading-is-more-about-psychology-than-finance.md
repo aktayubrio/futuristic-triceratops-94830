@@ -12,4 +12,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-> Trading is more about psychology than Finance
+>
+>
+>
