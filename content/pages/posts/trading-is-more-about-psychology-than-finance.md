@@ -22,15 +22,13 @@ Do you have similar questions when you plan on making trading a career and most
 
 The answer is yes, trading is :
 
-Stay tuned to this page as the upcoming posts and articles will be about the basics of the stock market and how to shift the mindset from an amateur to a pro trader.
-
 *   Is trading a gamble?
 
 *   Can I really make money in trading?
 
 *   X person lost all his money in the matter of weeks/days which took him 3 years to earn at a full-time job is trading that risky?
 
-*   The stock market is all of the numbers and having a degree in finance will give an edge.The stock market is profitable in the Long term it is very difficult to meet my day-to-day expenses through trading. 
+*   The stock market is all of the numbers and having a degree in finance will give an edge. The stock market is profitable in the Long term it is very difficult to meet my day-to-day expenses through trading. 
 
 **Do you have similar questions when you plan on making trading a career and most important are the above statements/questions true?**
 
@@ -41,3 +39,7 @@ Stay tuned to this page as the upcoming posts and articles will be about the bas
 *   Fast way to lose money: If you don't have a proper setup and mindset to trade almost 95% of the traders blow their account due to trading illiteracy.
 
 *   Not profitable in the long run: If you do not improvise your strategy based on the market trends. Markets are like the time they keep running and changing and if you don't want to be left behind you need to give in the efforts to make up for it.
+
+
+
+👨🏼‍💻Stay tuned to this page as the upcoming posts and articles will be about the basics of the stock market and how to shift the mindset from an amateur to a pro trader.
