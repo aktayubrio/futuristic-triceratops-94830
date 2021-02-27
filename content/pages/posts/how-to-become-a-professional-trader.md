@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to become a Professional trader?
 subtitle: lorem-ipsum
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
