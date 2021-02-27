@@ -1,6 +1,6 @@
 ---
 title: How to become a Professional trader?
-subtitle: lorem-ipsum
+subtitle: 5 Must follo
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
