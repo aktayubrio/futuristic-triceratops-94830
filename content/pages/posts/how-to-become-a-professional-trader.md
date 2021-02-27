@@ -1,5 +1,5 @@
 ---
-title: 5 must follow rules to become a Professional trader?
+title: 5 must have's to become a Professional trader?
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
