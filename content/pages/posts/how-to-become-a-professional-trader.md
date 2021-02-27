@@ -14,6 +14,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/mindset.jpg
 ---
 > > If you truly want to become a professional trader below are the 5 must have's :
 >
