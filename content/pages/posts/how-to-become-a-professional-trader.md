@@ -19,10 +19,9 @@ layout: post
 >
 > **1.Mindset :**
 >
-> \*\*\*\*![](http://www.brameshtechanalysis.com/wp-content/uploads/2020/07/mindset.jpg)
+> ![](http://www.brameshtechanalysis.com/wp-content/uploads/2020/07/mindset.jpg)
 >
-> As mentioned in my previous article \*\*“Trading is more about psychology than finance”.
-> \*\*
+> As mentioned in my previous article ,'Trading is more about psychology than finance'.
 > Every profitable trader do not have a MBA degree from Harvard and it is not even required in fact
 > the one’s I have met are dropouts, here the only thing that matters is your own skillset and most
 > importantly the mindset. When you start trading at first and win a few trades initially or lose few
@@ -36,7 +35,7 @@ layout: post
 >
 > **2.Continuous learning :**
 >
-> \*\*\*\*![](https://lh3.googleusercontent.com/proxy/boOOM23XbKBbI5Yvd7x6qNM70nx\_8dVwAAFzk_D3QX-daMgpxFxi44C4rmagPq_WT4yonc8tkc6RjQ5bTH6hRdyjGuUv6GS5o-VQnrWPZXqzSZAIQ\_7DP3NdoMvJYwwPElfo6g)
+> ![](https://lh3.googleusercontent.com/proxy/boOOM23XbKBbI5Yvd7x6qNM70nx\_8dVwAAFzk_D3QX-daMgpxFxi44C4rmagPq_WT4yonc8tkc6RjQ5bTH6hRdyjGuUv6GS5o-VQnrWPZXqzSZAIQ\_7DP3NdoMvJYwwPElfo6g)
 >
 > ‘A fool thinks himself to be wise, but a wise man knows himself to be a fool’-: These words were
 > said by William Shakespeare in 1599 but has equal relevance in today’s trading. A pro trader
@@ -48,7 +47,7 @@ layout: post
 >
 > **3.Risk Management :**
 >
-> \*\*\*\*![](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62970c7e8ff000777baec%2F0x0.jpg)
+> ![](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62970c7e8ff000777baec%2F0x0.jpg)
 >
 > It a classic old saying that while you invest always remember that Rome was not built in a day and
 > while you trade always remember that Hiroshima was destroyed in a day. No matter how good a
@@ -58,7 +57,7 @@ layout: post
 >
 > **4.Trading journal :**
 >
-> \*\*\*\*![](https://www.teachingenglish.org.uk/sites/teacheng/files/images/class_journals_iStock\_000021675732XSmall.jpg)
+> ![](https://www.teachingenglish.org.uk/sites/teacheng/files/images/class_journals_iStock\_000021675732XSmall.jpg)
 >
 > It is a must in order to evaluate you trading, best idea is to keep a rough notebook and write
 > whatever comes to you mind while you trade and fair it later to evaluate why you entered the trade
@@ -69,7 +68,7 @@ layout: post
 >
 > **5.Trading setup :**
 >
-> \*\*\*\*![](https://devexperts.com/blog/wp-content/uploads/2019/09/twitter-strategy-mobile.png)
+> ![](https://devexperts.com/blog/wp-content/uploads/2019/09/twitter-strategy-mobile.png)
 >
 > A professional trading setup does not means more winning rate its a common notion that in order
 > to remain profitable the winning trades should be more but it is subjective in nature : Let’s take an
@@ -82,7 +81,5 @@ layout: post
 >
 > So it is a must to evaluate your trading setup thoroughly and backtest the setup keeping a sample
 > size of at leat 10 trades to be on a safer side.
->
->
 >
 > *   **Conclusion :** The Diference between the amateur and a professioanl trader is nothing but the will of the latter to succeed and treat trading as a skill which is improvised over and over again.
