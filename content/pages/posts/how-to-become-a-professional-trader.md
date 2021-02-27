@@ -78,6 +78,6 @@ layout: post
 > \- In setup B risk to reward is 1:3 and hence the trader needs a winning rate of 25%.
 >
 > So it is a must to evaluate your trading setup thoroughly and backtest the setup keeping a sample
-> size of at leat 10 trades to be on a safer side.
+> size of at least 10 trades to be on a safer side.
 >
 > *   **Conclusion :** The Diference between the amateur and a professioanl trader is nothing but the will of the latter to succeed and treat trading as a skill which is improvised over and over again.
