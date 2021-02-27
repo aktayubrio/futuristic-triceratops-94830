@@ -15,9 +15,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-> If you truly want to become a professional trader below are the 5 must have's :
+> > If you truly want to become a professional trader below are the 5 must have's :
 >
-> *   Mindset :
+> *   **Mindset :**
 >
 > As mentioned in my previous article \*\*“Trading is more about psychology than finance”.
 > \*\*
@@ -32,7 +32,7 @@ layout: post
 > focused on the learnings because they know that in long term their learnings will always make
 > them profitable overall.
 >
-> *   Continuous learning :
+> *   **Continuous learning :**
 >
 > ‘A fool thinks himself to be wise, but a wise man knows himself to be a fool’-: These words were
 > said by William Shakespeare in 1599 but has equal relevance in today’s trading. A pro trader
@@ -42,7 +42,7 @@ layout: post
 > today. Hence it is very important to make learning as a habit to stay at par with the market
 > sentiments and keep developing the trading strategies when they start to backfire.
 >
-> *   Risk Management :
+> *   **Risk Management :**
 >
 > It a classic old saying that while you invest always remember that Rome was not built in a day and
 > while you trade always remember that Hiroshima was destroyed in a day. No matter how good a
@@ -50,7 +50,7 @@ layout: post
 > Moreover if you are not able to understand the market movement at any trading day the best
 > thing to do is stay away from the screen. Always remember ‘choosing not to trade is also a trade’.
 >
-> *   Trading journal :
+> *   **Trading journal :**
 >
 > It is a must in order to evaluate you trading, best idea is to keep a rough notebook and write
 > whatever comes to you mind while you trade and fair it later to evaluate why you entered the trade
@@ -59,7 +59,7 @@ layout: post
 > and having done this continuously compare the past thoughts to the latest one’s and you will
 > notice the difference in the way you think while you trade.
 >
-> *   Trading setup :
+> *   **Trading setup :**
 >
 > A professional trading setup does not means more winning rate its a common notion that in order
 > to remain profitable the winning trades should be more but it is subjective in nature : Let’s take an
