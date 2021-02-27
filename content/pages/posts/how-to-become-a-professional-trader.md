@@ -59,7 +59,7 @@ layout: post
 >
 > It is a must in order to evaluate your trading, best idea is to keep a rough notebook and write
 > whatever comes to your mind while you trade and fair it later to evaluate why you entered the trade
-> and whether you logic was correct or not. This process helps in a lot of ways if you make it a habit
+> and whether your logic was correct or not. This process helps in a lot of ways if you make it a habit
 > to maintain a trading journal where you write your profits and losses and side by side your thoughts
 > and having done this continuously compare the past thoughts to the latest one’s and you will
 > notice the difference in the way you think while you trade.
