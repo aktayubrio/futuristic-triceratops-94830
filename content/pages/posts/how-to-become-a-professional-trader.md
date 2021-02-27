@@ -80,4 +80,4 @@ layout: post
 > So it is a must to evaluate your trading setup thoroughly and backtest the setup keeping a sample
 > size of at least 10 trades to be on a safer side.
 >
-> *   **Conclusion :** The Diference between the amateur and a professioanl trader is nothing but the will of the latter to succeed and treat trading as a skill which is improvised over and over again.
+> *   **Conclusion :** The difference between the amateur and a professioanl trader is nothing but the will of the latter to succeed and treat trading as a skill which is improvised over and over again.
