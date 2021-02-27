@@ -17,7 +17,9 @@ layout: post
 ---
 > > If you truly want to become a professional trader below are the 5 must have's :
 >
-> *   **Mindset :**
+> **1.Mindset :**
+>
+> ****![](http://www.brameshtechanalysis.com/wp-content/uploads/2020/07/mindset.jpg)
 >
 > As mentioned in my previous article \*\*“Trading is more about psychology than finance”.
 > \*\*
@@ -32,7 +34,11 @@ layout: post
 > focused on the learnings because they know that in long term their learnings will always make
 > them profitable overall.
 >
-> *   **Continuous learning :**
+>
+>
+> **2.Continuous learning :**
+>
+> ****![](https://lh3.googleusercontent.com/proxy/boOOM23XbKBbI5Yvd7x6qNM70nx\_8dVwAAFzk_D3QX-daMgpxFxi44C4rmagPq_WT4yonc8tkc6RjQ5bTH6hRdyjGuUv6GS5o-VQnrWPZXqzSZAIQ\_7DP3NdoMvJYwwPElfo6g)
 >
 > ‘A fool thinks himself to be wise, but a wise man knows himself to be a fool’-: These words were
 > said by William Shakespeare in 1599 but has equal relevance in today’s trading. A pro trader
@@ -42,7 +48,11 @@ layout: post
 > today. Hence it is very important to make learning as a habit to stay at par with the market
 > sentiments and keep developing the trading strategies when they start to backfire.
 >
-> *   **Risk Management :**
+>
+>
+> **3.Risk Management :**
+>
+> ****![](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62970c7e8ff000777baec%2F0x0.jpg)
 >
 > It a classic old saying that while you invest always remember that Rome was not built in a day and
 > while you trade always remember that Hiroshima was destroyed in a day. No matter how good a
@@ -50,7 +60,11 @@ layout: post
 > Moreover if you are not able to understand the market movement at any trading day the best
 > thing to do is stay away from the screen. Always remember ‘choosing not to trade is also a trade’.
 >
-> *   **Trading journal :**
+>
+>
+> **4.Trading journal :**
+>
+> ****![](https://www.teachingenglish.org.uk/sites/teacheng/files/images/class_journals_iStock\_000021675732XSmall.jpg)
 >
 > It is a must in order to evaluate you trading, best idea is to keep a rough notebook and write
 > whatever comes to you mind while you trade and fair it later to evaluate why you entered the trade
@@ -59,7 +73,11 @@ layout: post
 > and having done this continuously compare the past thoughts to the latest one’s and you will
 > notice the difference in the way you think while you trade.
 >
-> *   **Trading setup :**
+>
+>
+> **5.Trading setup :**
+>
+> ****![](https://devexperts.com/blog/wp-content/uploads/2019/09/twitter-strategy-mobile.png)
 >
 > A professional trading setup does not means more winning rate its a common notion that in order
 > to remain profitable the winning trades should be more but it is subjective in nature : Let’s take an
@@ -72,3 +90,11 @@ layout: post
 >
 > So it is a must to evaluate your trading setup thoroughly and backtest the setup keeping a sample
 > size of at leat 10 trades to be on a safer side.
+>
+>
+>
+> *   **Conclusion :** The Diference between the amateur and a professioanl trader is nothing but the will of the latter to succeed and treat trading as a skill which is improvised over and over again.
+>
+>
+>
+>
