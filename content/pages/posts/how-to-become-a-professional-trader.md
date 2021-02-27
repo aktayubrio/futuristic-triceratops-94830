@@ -1,6 +1,5 @@
 ---
 title: 5 must follow rules to become a Professional trader?
-subtitle: 5 Must follo
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
