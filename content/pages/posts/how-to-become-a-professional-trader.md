@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-> > If you truly want to become a professional trader below are the 5 must have's :
+> > If you truly want to become a professional trader below are the 5 must-haves :
 >
 > **1.Mindset :**
 >
