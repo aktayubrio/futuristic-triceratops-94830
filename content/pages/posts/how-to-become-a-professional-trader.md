@@ -1,5 +1,5 @@
 ---
-title: 5 must have's to become a Professional trader
+title: 5 must have's to become a Professional trader.
 date: '2021-02-27'
 hide_header: true
 seo:
