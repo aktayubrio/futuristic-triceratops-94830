@@ -49,7 +49,7 @@ layout: post
 >
 > It is a classic old saying that while you invest always remember that Rome was not built in a day and
 > while you trade always remember that Hiroshima was destroyed in a day. No matter how good a
-> setup is stop-loss is a must in addition to that never risk 2% of you capital in a single trade.
+> setup is stop-loss is a must in addition to that never risk 2% of your capital in a single trade.
 > Moreover if you are not able to understand the market movement at any trading day the best
 > thing to do is stay away from the screen. Always remember ‘choosing not to trade is also a trade’.
 >
@@ -60,7 +60,7 @@ layout: post
 > It is a must in order to evaluate you trading, best idea is to keep a rough notebook and write
 > whatever comes to you mind while you trade and fair it later to evaluate why you entered the trade
 > and whether you logic was correct or not. This process helps in a lot of ways if you make it a habit
-> to maintain a trading journal where you write your profit and losses and side by side you thoughts
+> to maintain a trading journal where you write your profits and losses and side by side your thoughts
 > and having done this continuously compare the past thoughts to the latest one’s and you will
 > notice the difference in the way you think while you trade.
 >
