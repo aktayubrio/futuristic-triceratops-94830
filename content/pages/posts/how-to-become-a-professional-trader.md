@@ -58,7 +58,7 @@ layout: post
 > ![](https://www.teachingenglish.org.uk/sites/teacheng/files/images/class_journals_iStock\_000021675732XSmall.jpg)
 >
 > It is a must in order to evaluate you trading, best idea is to keep a rough notebook and write
-> whatever comes to you mind while you trade and fair it later to evaluate why you entered the trade
+> whatever comes to your mind while you trade and fair it later to evaluate why you entered the trade
 > and whether you logic was correct or not. This process helps in a lot of ways if you make it a habit
 > to maintain a trading journal where you write your profits and losses and side by side your thoughts
 > and having done this continuously compare the past thoughts to the latest one’s and you will
