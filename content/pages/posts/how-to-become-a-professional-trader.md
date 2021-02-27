@@ -12,9 +12,8 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+> If you truly want to become a professional trader below are the 5 must do's :
+>
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
