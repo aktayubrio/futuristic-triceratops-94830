@@ -22,7 +22,7 @@ layout: post
 >
 > As mentioned in my previous article ,'Trading is more about psychology than finance'.
 > Every profitable trader do not have a MBA degree from Harvard and it is not even required in fact
-> the one’s I have met are dropouts, here the only thing that matters is your own skillset and most
+> many of them are dropouts, here the only thing that matters is your own skillset and most
 > importantly the mindset. When you start trading at first and win a few trades initially or lose few
 > trades you become overwhelmed or depressed and miss out on the most important thing
 > ‘learning’. It is not only your winning trades or losing trades that define you as a good or a bad
@@ -48,7 +48,7 @@ layout: post
 >
 > ![](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62970c7e8ff000777baec%2F0x0.jpg)
 >
-> It a classic old saying that while you invest always remember that Rome was not built in a day and
+> It is a classic old saying that while you invest always remember that Rome was not built in a day and
 > while you trade always remember that Hiroshima was destroyed in a day. No matter how good a
 > setup is stop-loss is a must in addition to that never risk 2% of you capital in a single trade.
 > Moreover if you are not able to understand the market movement at any trading day the best
