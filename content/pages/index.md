@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: The pro trader (An amateur who didn't quit)
+  title: The pro trader
   description: >-
     Mindset manual to motivate and teach amateur traders and to change the
     perspective that trading isn't betting rather it is more like a business
