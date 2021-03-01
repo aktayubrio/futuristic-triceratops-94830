@@ -6,8 +6,7 @@ seo:
   title: 5 Must have's to become a professional trader
   description: >-
     Ever wondered about what separates amateur traders from professional ones.
-    These are the 5 must have's if you truly want to become a professional
-    trader.
+    These are the 5 must have's if you want to become a professional trader.
   robots: []
   extra: []
   type: stackbit_page_meta
