@@ -5,11 +5,11 @@ more_link_text: Keep reading
 seo:
   title: The pro trader (An amateur improvising everyday)
   description: >-
-    Mindset manual to educate amateur traders and to change the perspective that
-    trading isn't betting rather it is more like a business where the objective
-    is to limit the losses and increase the benefits. A guide that will give a
-    legitimate analysis from choosing the intermediary to taking the position at
-    the correct second in the market.
+    Mindset manual to motivate and educate amateur traders and to change the
+    perspective that trading isn't betting rather it is more like a business
+    where the objective is to limit the losses and increase the benefits. A
+    guide that will give a legitimate analysis from choosing the intermediary to
+    taking the position at the correct second in the market.
   extra:
     - name: 'og:type'
       value: website
