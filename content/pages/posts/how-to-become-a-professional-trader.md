@@ -13,13 +13,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-
-
 > If you truly want to become a professional trader below are the 5 must-haves :
 
 **1.Mindset :**
-
-![](http://www.brameshtechanalysis.com/wp-content/uploads/2020/07/mindset.jpg)
 
 As mentioned in my previous article ,'Trading is more about psychology than finance'.
 Every profitable trader do not have a MBA degree from Harvard and it is not even required in fact
@@ -35,8 +31,6 @@ them profitable overall.
 
 **2.Continuous learning :**
 
-
-
 ‘A fool thinks himself to be wise, but a wise man knows himself to be a fool’-: These words were
 said by William Shakespeare in 1599 but has equal relevance in today’s trading. A pro trader
 always reminds himself that market has its own ways to teach no matter how profitable he has
@@ -47,8 +41,6 @@ sentiments and keep developing the trading strategies when they start to backfir
 
 **3.Risk Management :**
 
-![](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62970c7e8ff000777baec%2F0x0.jpg)
-
 It is a classic old saying that while you invest always remember that Rome was not built in a day and
 while you trade always remember that Hiroshima was destroyed in a day. No matter how good a
 setup is stop-loss is a must in addition to that never risk 2% of your capital in a single trade.
@@ -56,8 +48,6 @@ Moreover if you are not able to understand the market movement at any trading da
 thing to do is stay away from the screen. Always remember ‘choosing not to trade is also a trade’.
 
 **4.Trading journal :**
-
-![](https://www.teachingenglish.org.uk/sites/teacheng/files/images/class_journals_iStock\_000021675732XSmall.jpg)
 
 It is a must in order to evaluate your trading, best idea is to keep a rough notebook and write
 whatever comes to your mind while you trade and fair it later to evaluate why you entered the trade
@@ -67,8 +57,6 @@ and having done this continuously compare the past thoughts to the latest one’
 notice the difference in the way you think while you trade.
 
 **5.Trading setup :**
-
-![](https://devexperts.com/blog/wp-content/uploads/2019/09/twitter-strategy-mobile.png)
 
 A professional trading setup does not means more winning rate its a common notion that in order
 to remain profitable the winning trades should be more but it is subjective in nature : Let’s take an
